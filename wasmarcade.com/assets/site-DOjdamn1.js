@@ -1,0 +1,1 @@
+var e=`contact@wasmarcade.com`,t=`October 8, 2026`,n=`2026-10-08`,r=`A library of real game engines compiled to WebAssembly, running in your browser.`;function i(t){return`mailto:${e}?subject=${encodeURIComponent(t)}`}export{i as a,r as i,t as n,n as r,e as t};

@@ -1,0 +1,1 @@
+import{t as e}from"jsx-runtime-BkSabwWG.js";var t=e();function n({question:e,answer:n}){return(0,t.jsxs)(`details`,{className:`fold min-w-0`,children:[(0,t.jsx)(`summary`,{children:(0,t.jsx)(`span`,{className:`break-words text-base font-extrabold leading-snug`,children:e})}),(0,t.jsx)(`p`,{className:`fold-body m-0 text-base leading-relaxed`,children:n})]})}export{n as t};

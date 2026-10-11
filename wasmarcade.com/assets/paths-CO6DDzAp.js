@@ -1,0 +1,1 @@
+var e=`/retro-games`,t=t=>`${e}/${t}`,n=t=>`${e}/system/${t}`,r=(e,t=450)=>`/emulation/boxart-v2/${e}-${t}.webp`,i=e=>`/emulation/og-v2/${e}.jpg`,a=e=>`${e.title}${e.year?` (${e.year})`:``} box art`,o=e=>`/emulation/roms/${e}.zip`,s=()=>`/emulation/bios/neogeo.zip`;export{t as a,n as c,a as i,s as n,o,r,i as s,e as t};

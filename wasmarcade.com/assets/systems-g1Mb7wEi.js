@@ -1,0 +1,1 @@
+import{t as e}from"systems.gen-CeYDQR2d.js";var t=e.reduce((e,t)=>e+t.count,0),n=new Set(e.map(e=>e.id));function r(t){let n=e.find(e=>e.id===t);if(!n)throw Error(`unknown emu system: ${t}`);return{...n}}export{t as n,r,n as t};

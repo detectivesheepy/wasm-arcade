@@ -1,0 +1,1 @@
+var e=[{id:`cps1`,label:`Arcade · CPS1`,core:`fbneo`,count:20},{id:`cps2`,label:`Arcade · CPS2`,core:`fbneo`,count:36},{id:`cps3`,label:`Arcade · CPS3`,core:`fbneo`,count:6},{id:`neogeo`,label:`Neo Geo`,core:`fbneo`,count:90},{id:`arcade`,label:`Arcade`,core:`fbneo`,count:75}];export{e as t};

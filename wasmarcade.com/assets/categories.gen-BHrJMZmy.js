@@ -1,0 +1,1 @@
+var e=[`action`,`adventure`,`arcade`,`creative`,`educational`,`logic`,`platformer`,`puzzle`,`quiz`,`racing`,`shooter`,`simulation`,`sports`,`strategy`],t={action:227,adventure:109,arcade:226,creative:40,educational:21,logic:18,platformer:76,puzzle:126,quiz:9,racing:15,shooter:92,simulation:55,sports:53,strategy:77};export{e as n,t};
